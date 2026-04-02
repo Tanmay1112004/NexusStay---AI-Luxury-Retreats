@@ -1,7 +1,3 @@
-Here’s a **next-level, recruiter-attracting README** for your project — clean, premium, and built to *sell your skills instantly* 🔥
-
----
-
 # 🏰 NexusStay — AI-Powered Luxury Booking Platform
 
 > **Where AI meets premium travel experiences.**
@@ -232,5 +228,3 @@ MIT License
 If you like the idea, drop a ⭐ — it helps a lot!
 
 ---
-
-If you want, I can **upgrade this into FAANG-level portfolio README (with badges, live demo deploy, metrics, and recruiter hooks)** — just say *“make it elite”* 😄
