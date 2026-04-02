@@ -7,7 +7,13 @@
 
 ## 🎥 App Preview
 
-> *Drop your demo screenshots / GIF here for maximum impact*
+![demo](https://github.com/Tanmay1112004/NexusStay---AI-Luxury-Retreats/blob/main/screenshots/Screenshot%202025-10-21%20075504.png)
+
+![demo](https://github.com/Tanmay1112004/NexusStay---AI-Luxury-Retreats/blob/main/screenshots/Screenshot%202025-10-21%20075538.png)
+
+![demo](https://github.com/Tanmay1112004/NexusStay---AI-Luxury-Retreats/blob/main/screenshots/Screenshot%202025-10-21%20075558.png)
+
+![demo](https://github.com/Tanmay1112004/NexusStay---AI-Luxury-Retreats/blob/main/screenshots/Screenshot%202025-10-21%20075832.png)
 
 ---
 
